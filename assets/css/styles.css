@@ -1,0 +1,33 @@
+body{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	background-image: url("../images/light_grey.png");
+    background-repeat: repeat-x repeat-y;
+}
+
+.header {
+	height: 53px;
+}
+
+.border-3 {
+    border-width: 3px !important;
+}
+
+h4 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 100px;
+    width: 100%;
+}
+footer {
+	height: 65px
+}
+
