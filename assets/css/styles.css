@@ -24,8 +24,11 @@ h4 {
 .caption {
     position: absolute;
     top: 45%;
-    left: 100px;
+    left: 123px;
     width: 100%;
+}
+.w-30 {
+	width: 38%;
 }
 footer {
 	height: 65px
